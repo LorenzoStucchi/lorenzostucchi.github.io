@@ -3078,13 +3078,13 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: Lato;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;;
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #410012;
+  color: #000000;
   text-align: left;
-  background-color: #EFEFEF; }
+  background-color: rgba(0, 152, 214, 0.59); }
 
 [tabindex="-1"]:focus {
   outline: none !important; }
@@ -3160,12 +3160,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #040000;
+    color: white;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -5542,7 +5542,7 @@ a.text-light:focus, a.text-light:hover {
   color: #d6d6d6 !important; }
 
 .text-dark {
-  color: #343a40 !important; }
+  color: #0000dd !important; }
 
 a.text-dark:focus, a.text-dark:hover {
   color: #1d2124 !important; }
