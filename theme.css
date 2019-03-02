@@ -3084,7 +3084,7 @@ body {
   line-height: 1.5;
   color: #000000;
   text-align: left;
-  background-color: rgba(0, 152, 214, 0.59); }
+  background-color: rgba(168, 198, 150, 0.82); }
 
 [tabindex="-1"]:focus {
   outline: none !important; }
@@ -5542,7 +5542,8 @@ a.text-light:focus, a.text-light:hover {
   color: #d6d6d6 !important; }
 
 .text-dark {
-  color: #0000dd !important; }
+  color: #00652f !important;
+  text-decoration: double}
 
 a.text-dark:focus, a.text-dark:hover {
   color: #1d2124 !important; }
