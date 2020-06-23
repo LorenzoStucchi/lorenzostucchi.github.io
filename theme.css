@@ -18,6 +18,7 @@ body {
 #github_logo:hover {color: white;}
 #gitlab_logo:hover {color: orangered;}
 #linkedin_logo:hover {color: blue;}
+#orcid_logo:hover {color: rgb(166, 206, 57);}
 
 a {
   color: black;
